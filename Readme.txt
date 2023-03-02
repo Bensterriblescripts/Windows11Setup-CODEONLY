@@ -1,0 +1,2 @@
+after windows install and rename of computer, log in with your domain admin account
+after restart from installing updates and software, log in with the user account and run the set_user_configurations bat
